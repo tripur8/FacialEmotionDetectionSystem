@@ -1,6 +1,6 @@
 # Entertainment-Recommendation-System based on Emotion Recognition
 <i>
- 🙋 Team Members: Silpa S, Kamalpreet Kaur, Khushboo Agnihotri, Rucha Yagnik
+ 🙋 Team Members: B.Padmavathi,K.Tripura,B V Sandeep,B.Kasi.
 </i>
 <br></br>
 <br></br>
@@ -67,20 +67,6 @@ operations take place:
 <img src="https://github.com/SheCodes-IEEE-CIS-GHRCE/Entertainment-Recommendation-System/blob/main/screenshots/image%20(5).png"></img>
  <br></br>
  
-## DEMO OF THE PROJECT:
-<a href="https://drive.google.com/file/d/1aBjg37GIlmCA_Ddukeahh3Rgd8grp6DS/view?usp=sharing"> 📷 VIDEO LINK </a>
-<br></br>
 
 
-
-
-## Contributors
-
-* **❄️Silpa S** - [GitHub Profile](https://github.com/silpasreeni99)
-
-* **❄️Khushboo Agnihotri** - [GitHub Profile](https://github.com/khushbooagnihotri)
-
-* **❄️Kamalpreet Kaur** - [GitHub Profile](https://github.com/kamal-kaur04)
-
-* **❄️Rucha Yagnik** - [GitHub Profile](https://github.com/RuchaYagnik)
 
